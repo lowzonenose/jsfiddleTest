@@ -1,0 +1,14 @@
+      div#viewerDiv {
+          width:400px;
+          height:400px;
+          background-color:white;
+      }
+      div#example_explain {
+          margin:0px 0px 10px 0px;
+          border: thin solid #595E61;
+          width:800px;
+          text-align:justify;
+          font-size: 0.75em;
+          font-style: italic;
+          color: #595E61;
+      }
